@@ -1,0 +1,20 @@
+push
+50
+push
+30
+push
+60
+push
+-500
+push
+25
+show 
+pop
+pop
+pop
+pop
+pop
+sort
+stop
+
+D:\\faculty\\sec year\\OOP\\final project\\f.txt
