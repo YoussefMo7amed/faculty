@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1558118608 source:d:\computer science\projects\data structures\expression tree\expression_tree\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<ctype.h>
+	<math.h>
+	<cmath>
+	<string>
+	<string.h>
+	<vector>
+	<queue>
+	<set>
+	<map>
+	<stack>
+	<algorithm>
+
